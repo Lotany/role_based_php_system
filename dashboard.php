@@ -8,8 +8,8 @@
 	}		
 	
 	require_once('inc/config.php');
-	require_once('layouts/header.php'); 
-	require_once('layouts/left_sidebar.php'); 
+	require_once('layoults/header.php'); 
+	require_once('layoults/left_sidebar.php'); 
 	
 	
 ?>
